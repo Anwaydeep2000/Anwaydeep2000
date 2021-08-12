@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anwaydeep2000
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning  Machine learning & Web Devolopement 
+- 🌱 I’m currently learning  Machine learning
 - 📫 How to reach me https://www.linkedin.com/in/anwaydeep-nath-1a8516200
 
 <!---
