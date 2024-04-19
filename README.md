@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anwaydeep2000
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working as a programer Analyst at Cognizant
+- 🌱 I’m currently working as a Programer Analyst at Cognizant
 - 📫 How to reach me https://www.linkedin.com/in/anwaydeep-nath-1a8516200
 
 <!---
